@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ibrahimi</h1>
 <h3 align="center">I am a student, learning Front-end development</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhkOGQ0MDY0Y2RmZjg3ZjFhMjE3OWUwYjU0YWM3NGQ2Mjg5Yjg1MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="coding" width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhkOGQ0MDY0Y2RmZjg3ZjFhMjE3OWUwYjU0YWM3NGQ2Mjg5Yjg1MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi123m3" alt="mahdi123m3" /></a> </p>
 
